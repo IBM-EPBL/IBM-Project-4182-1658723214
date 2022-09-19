@@ -1,6 +1,7 @@
 # IBM-Project-4182-1658723214
 Crude Oil Price Prediction
-By the end of this project you will be able to:
+
+Objectives of our project:
 
       -> Know fundamental concepts and techniques of time series forecasting and LSTM
 
